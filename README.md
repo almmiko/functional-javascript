@@ -1,2 +1,2 @@
-# functional-javascript
-functional-javascript-workshop solutions
+# Functional-javascript
+Functional-javascript-workshop solutions
